@@ -1,4 +1,4 @@
-# Pattern-analysis-on-Evolution-of-Trade
+# Affects of COVID-19 on global trade
 ## OBJECTIVE: 
 The objective is to analyze the trends of trade between different countries over time
 ## Datasets: 
